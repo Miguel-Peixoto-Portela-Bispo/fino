@@ -1,0 +1,2 @@
+# Fino
+Scala microframework
